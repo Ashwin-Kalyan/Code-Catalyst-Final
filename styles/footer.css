@@ -1,6 +1,6 @@
 footer {
   bottom: 0px;
-  position: fixed;
+  position: relative;
   font-family: "Nunito", sans-serif;
   left: 0px;
   width: 100%;
